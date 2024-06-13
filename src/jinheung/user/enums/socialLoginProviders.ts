@@ -1,0 +1,4 @@
+enum SocialLoginProviders {
+  google,
+  kakao,
+}
